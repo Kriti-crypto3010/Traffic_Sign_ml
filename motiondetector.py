@@ -2,7 +2,7 @@ import streamlit as st
 
 col3, col4,col5, =st.columns(3)
 with col3:
-    st.image(r"C:\Users\kriti\Downloads\image.png", width=170)
+    st.image(r"C:\Users\kriti\OneDrive\Documents\Kriti\Kriti\NextGenAI Academy\logo.png", width=170)
 
 with col4:
     st.markdown('<div style="text-align: center; font-size: 40px; font-weight: bold;">MobilitySense</div>', unsafe_allow_html=True)
